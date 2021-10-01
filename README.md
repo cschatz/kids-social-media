@@ -1,2 +1,3 @@
-# kids-social-media
-Repo for our kids' social media project
+# Kids Social Media Project
+
+Repo for our kids' social media project.
