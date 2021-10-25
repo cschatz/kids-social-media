@@ -5,9 +5,21 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello World Java EE</title>
+<title>Hell No World</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hello JSP and Servlet!</h1>
+    <h1>Welcome to Hell No World, your kid-friendly social media platform.</h1>
+    <div id="wall">
+    	<div class="note">
+    		<div class="childName">
+    			Colin
+    		</div>
+    		<div class="contents">
+    			I'm a child this is my note... hear me? Something?
+    		</div>
+    	</div>
+    
+    </div>
 </body>
 </html>
