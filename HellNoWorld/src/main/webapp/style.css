@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+	background-color: lightBlue;
+}
+
+#wall {
+	width: 600px;
+	height: 800px;
+	background-color: #ffffff;
+	border: 2px solid black;
+	margin: auto;	
+}
+
+.note {
+	width: 150px;
+	height: 100px;
+	background-color: lightYellow;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;	
+}
+
+.childName{
+	font-weight: bold;
+	font-size: 1.2em;
+	
+}
